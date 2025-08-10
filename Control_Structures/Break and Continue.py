@@ -11,7 +11,7 @@ for num in range(1, 6):
     if num % 2 == 0:
         continue
     print(num)
-#
+#using break to exit a loop when a condition is met
 numbers = [4, 2, 7, 1, 8, 3, 6]
 search_for = 8
 
