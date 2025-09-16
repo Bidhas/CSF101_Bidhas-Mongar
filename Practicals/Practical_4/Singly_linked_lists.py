@@ -78,5 +78,4 @@ ll.display()
 print(ll.search(4))  
 print(ll.search(5))
 ll.reverse()
-ll.display()
-       
+ll.display()       
