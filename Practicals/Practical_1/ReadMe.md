@@ -1,57 +1,44 @@
-Practical Report 1 - CSF 101
+# Practical 1 – Python Basics, Control Structures, Data Structures, File Operations & Operators
 
-Objective for the practical:
+## 1. Instructions
+This practical required us to complete several tasks demonstrating fundamental Python concepts.  
+The instructions included:
+1. Using basic data types (numbers, strings, booleans)
+2. Implementing control structures (conditionals, loops, break, continue)
+3. Working with common data structures (lists and dictionaries)
+4. Performing file operations on text and binary files
+5. Applying arithmetic, assignment, comparison, and logical operators
 
-1. These Exercises are designed in such a way that it helps us (the students) to practice working with basic python terminologies and concepts, namely data types, control structures, file operations, data structures and operations (arithmentic....)
-2. This also helps learn writing of algorithms, pseudocodes and flowcharts to help solve various questions. 
+## 2. Solutions Summary
+Below is a summary of the work completed for each section:
 
-Instructions and Solutions 
-1. Basics 
-    1.1 Boolean 
-    #1 Create two boolean variables namely is_student and is_employed and assign True or False Value to them.
-    #2 Use the and operator to check if you are both a student and employed.
-    #3 Use the or operator to check if you are either a student or employed.
-    
-    Solution:
-    ![Code_snippet_or_solution](../Images/boolean.png)
+### a. Basic Concepts**
+- Used integers, floats, strings, and boolean data types.
+- Performed basic operations to confirm correct usage.
 
-    1.2 Numbers 
-    #1 Create two varirables 'age' and 'Height' and asign your age and height as its value
-    #2 Calculate your age and store it in a new variable called age_in_days
-    #3 Divide your age by 7 and print the results
+### b. Control Structures**
+- Implemented `if`, `elif`, and `else` statements.
+- Used `for` and `while` loops for repetition.
+- Demonstrated the use of `break` and `continue` inside loops.
 
-    Solution: 
-    ![Code_snippet_or_solution2](../Images/numbers%20.png)
+### c. Data Structures**
+- Created and modified **lists** (adding, removing, accessing elements).  
+- Created and used **dictionaries** (keys, values, updating entries).
 
-    1.3 Strings
-    #1 create a variable for your name and use string concatenation to create a greeting message
-    #2 use f-string to create the same greeting message 
-    #3 print the length of your name 
+### d. File Operations**
+- Created, opened, read, and wrote **text files**.
+- Worked with **binary files**.
+- Practiced file management tasks such as renaming and deleting files.
 
-    solution:
-    ![Code_snippet_or_solution3](../Images/strings.png)
+### e. Operators**
+- Applied arithmetic operations to calculate values.
+- Used assignment operators to update variables.
+- Used comparison and logical operators in conditions and expressions.
 
-2. Control Structures
-    2.1 Loops 
-    #1 Use for loop and while loop to print the following outcomes:
-        a.print whole number ranging from 1 to 5 
-        b.using while loop print the values from 1 to 5 in a decending order.
-        c.print a multiplication table using nested loop 
-        d.calculate the sum of values ranging from 1 to 11 with the use of for loop 
-        e. Iterate through the a list of fruits with the use of for loop 
-    solution: 
-    ![Code_snippet_or_solution4](../Images/Loops.png)
-    
-    2.2 Conditionals
-    #1 Use basic if and else statements to generate following outcomes:
-        a.Validate if the given number is positive number.
-        b.generate a sample grading system. 
-        c.Use Tenary operator to print simple evaluation if wheather the number is even or odd
-        d. Generate a simple sample of calculator
-
-    solution:
-    ![Code_snippet_or_solution5](../Images/Conditionals1.png)
-    ![Code_snippet_or_solution6](../Images/Conditionals2.png)
-
-    2.3 Break and Continue
-    
+## 3. Images / Screenshots
+![Boolean code ](/Practicals/Images/boolean.png)
+![Conditionals](../Images/Conditionals1.png) 
+![Conditionals](../Images/Conditionals2.png) 
+![loops](../Images/Loops.png) 
+![numbers](<../Images/numbers .png>) 
+![Strings](../Images/strings.png) 
